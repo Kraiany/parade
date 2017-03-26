@@ -1,4 +1,4 @@
-# Ukrainian Festival in Japan
+# Ukrainian Parade in Tokyo
 Promotion website.
 
-Permanent address: https://kraiany.github.io/festival/
+Permanent address: https://www.kraiany.org/parade/
